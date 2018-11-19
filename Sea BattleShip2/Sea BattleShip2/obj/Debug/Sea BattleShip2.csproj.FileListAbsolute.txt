@@ -1,0 +1,7 @@
+C:\Users\micke\source\repos\Sea BattleShip2\Sea BattleShip2\bin\Debug\Sea BattleShip2.exe.config
+C:\Users\micke\source\repos\Sea BattleShip2\Sea BattleShip2\bin\Debug\Sea BattleShip2.exe
+C:\Users\micke\source\repos\Sea BattleShip2\Sea BattleShip2\bin\Debug\Sea BattleShip2.pdb
+C:\Users\micke\source\repos\Sea BattleShip2\Sea BattleShip2\obj\Debug\Sea BattleShip2.csprojAssemblyReference.cache
+C:\Users\micke\source\repos\Sea BattleShip2\Sea BattleShip2\obj\Debug\Sea BattleShip2.csproj.CoreCompileInputs.cache
+C:\Users\micke\source\repos\Sea BattleShip2\Sea BattleShip2\obj\Debug\Sea BattleShip2.exe
+C:\Users\micke\source\repos\Sea BattleShip2\Sea BattleShip2\obj\Debug\Sea BattleShip2.pdb
